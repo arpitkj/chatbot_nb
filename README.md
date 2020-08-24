@@ -1,2 +1,2 @@
 # chatbot_nb
-open domain chat bot
+This is an open domain chat bot created solely by using Naive Bayes classifier.
