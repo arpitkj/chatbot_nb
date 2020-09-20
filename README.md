@@ -1,2 +1,2 @@
 # chatbot_nb
-This is an closed domain chat bot created solely by using Naive Bayes classifier.
+This is a closed domain chat bot created solely by using Naive Bayes classifier.
